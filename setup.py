@@ -23,7 +23,7 @@ AUTHOR = 'Joy Yeh'
 # We exclude Python 3.9.7 from our compatible versions due to a bug in that version
 # with typing.Protocol. See https://github.com/streamlit/streamlit/issues/5140 and
 # https://bugs.python.org/issue45121
-REQUIRES_PYTHON=">=3.7, !=3.9.7"
+REQUIRES_PYTHON=">=3.7"
 VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
